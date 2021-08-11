@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything :) 
 - 👯 I’m looking to for a job as a software developer
 - 🥅 2021 Goals: Contribute more to Open Source projects and participate in a CTF competition!
-- 🎹 Fun fact: I love to play piano and swim
+- 🎹 Fun fact: I love swimming and playing piano.
 
 ### Connect with me:
 

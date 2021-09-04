@@ -3,7 +3,6 @@
 ## I'm a third year Computer Science Student
 
 - 🌱 I’m currently learning how to build a debugger :) 
-- 👯 I’m looking to for a job as a software developer
 - 🥅 2021 Goals: Contribute more to Open Source projects and participate in a CTF competition!
 - 🎹 Fun fact: I love swimming and playing piano.
 

@@ -1,6 +1,6 @@
-### Hi there, I'm Yael 👋
+### Hi there, I'm Yael
 
-## I'm a computer science graduate and working at SAP Labs
+I'm a computer science graduate and working at SAP Labs.
 
 - 🌱 I’m currently learning how to build a debugger :) 
 - 🥅 2024 Goals: Contribute more to Open Source projects and participate in a CTF competition!

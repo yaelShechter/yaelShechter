@@ -3,7 +3,7 @@
 ## I'm a computer science graduate and working at SAP Labs
 
 - 🌱 I’m currently learning how to build a debugger :) 
-- 🥅 2023 Goals: Contribute more to Open Source projects and participate in a CTF competition!
+- 🥅 2024 Goals: Contribute more to Open Source projects and participate in a CTF competition!
 - 🎹 Fun fact: I love playing piano.
 
 ### Connect with me:
